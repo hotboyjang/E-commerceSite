@@ -1,5 +1,5 @@
 # MenStore
-ManStore is a clothes store website for men. Specializing in office and corporate products such as shirts, vests, trousers, shoes, ...Is a wise choice for those who follow a neat and polite style. Moreover,  shop also has incentive programs, accumulate bonus points, and discount events on annual holidays.
+MenStore is a clothes store website for men. Specializing in office and corporate products such as shirts, vests, trousers, shoes, ...Is a wise choice for those who follow a neat and polite style. Moreover,  shop also has incentive programs, accumulate bonus points, and discount events on annual holidays.
 
 ## `Features:`
 * **Login and Decentralization**
