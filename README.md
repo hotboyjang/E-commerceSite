@@ -12,10 +12,14 @@ MenStore is a clothes store website for men. Specializing in office and corporat
     * Admin can edit the product details.
     * Admin can delete the product from the list.
  * **Discount function**
- * **Searching item**
+ * **Recommend best seller, newest or discount items**
+ * **Sort items by price**
+ * **Divide items by type**
+ * **Searching for item**
  * **Variety of payment methods**
     * Cash on Delivery (COD)
     * PayPal
+  
 ## `Who is the customer?`
 Shop targets on people with elegant and neat style such as students, office workers, business people, ...
 
@@ -26,14 +30,10 @@ Shop targets on people with elegant and neat style such as students, office work
 
 ## `Contributors:`
 * Nguyen Truong Giang </br>
-  -   [Github](https://github.com/GiangNTSE150747) </br>
-  -   [Facebook](https://www.facebook.com/TrGiang.ne/)
+  -   [Github](https://github.com/GiangNTSE150747), [Facebook](https://www.facebook.com/TrGiang.ne/)
 * Nguyen Hoang Duy
-  -   [Github](https://github.com/GiangNTSE150747) </br>
-  -   [Facebook](https://www.facebook.com/TrGiang.ne/)
+  -   [Github](https://github.com/GiangNTSE150747), [Facebook](https://www.facebook.com/TrGiang.ne/)
 * Nguyen Phu Tho
-  -   [Github](https://github.com/GiangNTSE150747) </br>
-  -   [Facebook](https://www.facebook.com/TrGiang.ne/)
+  -   [Github](https://github.com/GiangNTSE150747), [Facebook](https://www.facebook.com/TrGiang.ne/)
 * Hai Trieu 
-  -   [Github](https://github.com/GiangNTSE150747) </br>
-  -   [Facebook](https://www.facebook.com/TrGiang.ne/)
+  -   [Github](https://github.com/GiangNTSE150747), [Facebook](https://www.facebook.com/TrGiang.ne/)
