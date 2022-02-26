@@ -38,8 +38,8 @@ Shop targets on people whose taste toward elegant and neat style such as student
  * **Manage Pages (For admin/owner):** Simple, convenient for observation and management
    * **Dashboard**
  ![image](https://user-images.githubusercontent.com/90202401/153649322-284ca55d-7225-458f-9d32-d1649ce18bb1.png)
-   * **Profile**
- ![image](https://user-images.githubusercontent.com/90202401/153649542-743df728-fdd5-4fba-938d-1796110f5ea3.png)
+   * **Voucher management**
+ ![image](https://user-images.githubusercontent.com/90202401/155060175-6e6b88d2-6677-45a4-87e7-efa7aad39096.png)
    * **Manage**
  ![image](https://user-images.githubusercontent.com/90202401/153649867-11fe42ec-d540-4fb7-99bb-0146ad40fd7b.png)
 * **Web Pages (For user/customer):** Modern, good-looking to attract customers
@@ -57,5 +57,15 @@ Shop targets on people whose taste toward elegant and neat style such as student
 ![image](https://user-images.githubusercontent.com/90202401/153674857-118b3de6-f429-48b6-9245-a421937b82d1.png)
    * **Shopping cart**
 ![image](https://user-images.githubusercontent.com/90202401/153679998-59aea7ee-941c-4425-8263-fe7a7d800be3.png)
+
+## `Database design:`
+* **ER Model**
+![image](https://user-images.githubusercontent.com/90202401/155373286-2690b6e1-1a13-4263-a9a7-2945c4982796.png)
+ER Model in details:
+![image](https://user-images.githubusercontent.com/90202401/155452412-e28993ae-a2fd-483d-9024-d67911effdde.png)
+* **Relational Model**
+![image](https://user-images.githubusercontent.com/90202401/155452501-5cfcd71e-1852-427c-8ad6-d58d1da0d0e4.png)
+## `System design(Folder tree screenshot):`
+![image](https://user-images.githubusercontent.com/90202401/155380530-c21bbbcc-5a33-483f-907e-fdfa5e91dde0.png)
 
 
